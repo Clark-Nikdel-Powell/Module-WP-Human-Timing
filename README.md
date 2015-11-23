@@ -1,4 +1,4 @@
-## Print on Present
+## Human Timing
 
 Function to format a time string in Twitter-esque, human readable time.
 
